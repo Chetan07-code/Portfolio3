@@ -1,3 +1,3 @@
 My Responsive Portfolio website.
 
-It Lists the recent projects i have created
+It Lists the recent projects I have created
